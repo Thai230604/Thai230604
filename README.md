@@ -8,28 +8,45 @@
 
 ### 🔝 Top Contributed Repositories
 
-![Thai's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Thai230604&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/Thai230604/Football-Player-Detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thai230604&repo=Football-Player-Detection&theme=radical" />
-</a>    
-<a href="https://github.com/Thai230604/PDF-Insight-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thai230604&repo=PDF-Insight-Bot&theme=merko" />
-</a>
-
-<a href="https://github.com/Thai230604/Translation-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thai230604&repo=Translation-website&theme=gruvbox" />
-</a>    
-<a href="https://github.com/Thai230604/Predict_animals">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thai230604&repo=Predict_animals&theme=dark" />
-</a>
-
-<a href="https://github.com/Thai230604/Stock-trading-strategy-analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thai230604&repo=Stock-trading-strategy-analysis&theme=onedark" />
-</a>    
-<a href="https://github.com/Thai230604/QuanlyNhansu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thai230604&repo=QuanlyNhansu&theme=cobalt" />
-</a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Thai230604/Football-Player-Detection">⚽ Football Player Detection</a></h4>
+      <p><img src="https://img.shields.io/badge/YOLOv8-CV-blue" /> &nbsp;<img src="https://img.shields.io/badge/Python-ML-yellow" /></p>
+      <p>A deep learning project to detect football players using YOLOv8 on match footage.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Thai230604/PDF-Insight-Bot">📄 PDF Insight Bot</a></h4>
+      <p><img src="https://img.shields.io/badge/LangChain-PDF-red" /> &nbsp;<img src="https://img.shields.io/badge/Streamlit-Bot-green" /></p>
+      <p>An AI chatbot to extract and answer questions from PDF files using LLMs.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Thai230604/Translation-website">🌐 Translation Website</a></h4>
+      <p><img src="https://img.shields.io/badge/Flask-VietAI-purple" /> &nbsp;<img src="https://img.shields.io/badge/Quantized-Model-orange" /></p>
+      <p>A web app for translating Vietnamese ↔ English using quantized LLMs (envit5).</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Thai230604/Predict_animals">🐾 Predict Animals</a></h4>
+      <p><img src="https://img.shields.io/badge/CNN-Image_Classification-brightgreen" /></p>
+      <p>Classify animal images with deep learning and evaluate model performance.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Thai230604/Stock-trading-strategy-analysis">📈 Stock Trading Strategy Analysis</a></h4>
+      <p><img src="https://img.shields.io/badge/Finance-ML-darkblue" /> &nbsp;<img src="https://img.shields.io/badge/Backtest-Precision_Analysis-teal" /></p>
+      <p>Analyze stock trading strategies using technical indicators and ML classification.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Thai230604/QuanlyNhansu">👔 Human Resource Management</a></h4>
+      <p><img src="https://img.shields.io/badge/Django-Bootstrap-blueviolet" /></p>
+      <p>A full-stack HR management system with employee tracking, attendance, and payroll.</p>
+    </td>
+  </tr>
+</table>
 
 
 
