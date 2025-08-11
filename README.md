@@ -22,7 +22,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thai230604&repo=Translation-website&theme=gruvbox" />
 </a>    
 <a href="https://github.com/Thai230604/Paddle_OCR-ANPR-Camera">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thai230604&repo=Predict_animals&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thai230604&repo=Paddle_OCR-ANPR-Camera&theme=dark" />
 </a>
 
 <a href="https://github.com/Thai230604/Stock-trading-strategy-analysis">
