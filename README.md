@@ -9,7 +9,7 @@
 
 
 ### 🔝 Top Contributed Repositories
-![Thai's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Thai230604&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
 
 <a href="https://github.com/Thai230604/Football-Player-Detection">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thai230604&repo=Football-Player-Detection&theme=radical" />
